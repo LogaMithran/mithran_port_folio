@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/mithran_port_folio/static/css/main.073c9b0a.css",
-    "main.js": "/mithran_port_folio/static/js/main.009e4bf6.js",
-    "static/js/787.c80daea6.chunk.js": "/mithran_port_folio/static/js/787.c80daea6.chunk.js",
-    "static/media/logo.svg": "/mithran_port_folio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/mithran_port_folio/static/css/main.a4e79740.css",
+    "main.js": "/mithran_port_folio/static/js/main.f45b74af.js",
+    "static/media/Resume.pdf": "/mithran_port_folio/static/media/Resume.8ded8728257d223f8d35.pdf",
+    "static/media/Website pic.jpg": "/mithran_port_folio/static/media/Website pic.80f9b154bdcfc82ea79b.jpg",
+    "static/media/bg_texture.jpg": "/mithran_port_folio/static/media/bg_texture.0da97197a5da9698b3f2.jpg",
     "index.html": "/mithran_port_folio/index.html",
-    "main.073c9b0a.css.map": "/mithran_port_folio/static/css/main.073c9b0a.css.map",
-    "main.009e4bf6.js.map": "/mithran_port_folio/static/js/main.009e4bf6.js.map",
-    "787.c80daea6.chunk.js.map": "/mithran_port_folio/static/js/787.c80daea6.chunk.js.map"
+    "main.a4e79740.css.map": "/mithran_port_folio/static/css/main.a4e79740.css.map",
+    "main.f45b74af.js.map": "/mithran_port_folio/static/js/main.f45b74af.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.009e4bf6.js"
+    "static/css/main.a4e79740.css",
+    "static/js/main.f45b74af.js"
   ]
 }
