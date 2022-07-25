@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/mithran_port_folio/static/css/main.a4e79740.css",
-    "main.js": "/mithran_port_folio/static/js/main.f45b74af.js",
+    "main.css": "/mithran_port_folio/static/css/main.7f8ae4ff.css",
+    "main.js": "/mithran_port_folio/static/js/main.2b567736.js",
     "static/media/Resume.pdf": "/mithran_port_folio/static/media/Resume.8ded8728257d223f8d35.pdf",
     "static/media/Website pic.jpg": "/mithran_port_folio/static/media/Website pic.80f9b154bdcfc82ea79b.jpg",
     "static/media/bg_texture.jpg": "/mithran_port_folio/static/media/bg_texture.0da97197a5da9698b3f2.jpg",
     "index.html": "/mithran_port_folio/index.html",
-    "main.a4e79740.css.map": "/mithran_port_folio/static/css/main.a4e79740.css.map",
-    "main.f45b74af.js.map": "/mithran_port_folio/static/js/main.f45b74af.js.map"
+    "main.7f8ae4ff.css.map": "/mithran_port_folio/static/css/main.7f8ae4ff.css.map",
+    "main.2b567736.js.map": "/mithran_port_folio/static/js/main.2b567736.js.map"
   },
   "entrypoints": [
-    "static/css/main.a4e79740.css",
-    "static/js/main.f45b74af.js"
+    "static/css/main.7f8ae4ff.css",
+    "static/js/main.2b567736.js"
   ]
 }
